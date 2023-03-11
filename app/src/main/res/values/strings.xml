@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MisPeliculas</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="ordenar_por">Ordenar por</string>
+    <string name="genero">Genero</string>
+    <string name="titulo">Título</string>
+    <string name="nota">Nota</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="opciones">Opciones</string>
+    <string name="lista_de_generos">Géneros: </string>
+</resources>

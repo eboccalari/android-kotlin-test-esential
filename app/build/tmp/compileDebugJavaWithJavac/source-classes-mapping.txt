@@ -1,0 +1,2 @@
+com/example/mispeliculas/BuildConfig.java
+ com.example.mispeliculas.BuildConfig
