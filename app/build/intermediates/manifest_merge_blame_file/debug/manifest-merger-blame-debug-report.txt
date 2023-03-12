@@ -33,132 +33,133 @@
 21-->/home/eboccalari/workspaces/android-studio/linkedin/archivos_base_android_test_esencial/05_07_i/Peliculas/app/src/main/AndroidManifest.xml:11:9-54
 22        android:supportsRtl="true"
 22-->/home/eboccalari/workspaces/android-studio/linkedin/archivos_base_android_test_esencial/05_07_i/Peliculas/app/src/main/AndroidManifest.xml:12:9-35
-23        android:theme="@style/AppTheme" >
-23-->/home/eboccalari/workspaces/android-studio/linkedin/archivos_base_android_test_esencial/05_07_i/Peliculas/app/src/main/AndroidManifest.xml:13:9-40
-24        <activity
-24-->/home/eboccalari/workspaces/android-studio/linkedin/archivos_base_android_test_esencial/05_07_i/Peliculas/app/src/main/AndroidManifest.xml:14:9-24:20
-25            android:name="com.example.mispeliculas.ui.PeliculaListaActivity"
-25-->/home/eboccalari/workspaces/android-studio/linkedin/archivos_base_android_test_esencial/05_07_i/Peliculas/app/src/main/AndroidManifest.xml:15:13-53
-26            android:exported="true"
-26-->/home/eboccalari/workspaces/android-studio/linkedin/archivos_base_android_test_esencial/05_07_i/Peliculas/app/src/main/AndroidManifest.xml:18:13-36
-27            android:label="@string/app_name"
-27-->/home/eboccalari/workspaces/android-studio/linkedin/archivos_base_android_test_esencial/05_07_i/Peliculas/app/src/main/AndroidManifest.xml:16:13-45
-28            android:theme="@style/AppTheme.NoActionBar" >
-28-->/home/eboccalari/workspaces/android-studio/linkedin/archivos_base_android_test_esencial/05_07_i/Peliculas/app/src/main/AndroidManifest.xml:17:13-56
-29            <intent-filter>
-29-->/home/eboccalari/workspaces/android-studio/linkedin/archivos_base_android_test_esencial/05_07_i/Peliculas/app/src/main/AndroidManifest.xml:19:13-23:29
-30                <action android:name="android.intent.action.MAIN" />
-30-->/home/eboccalari/workspaces/android-studio/linkedin/archivos_base_android_test_esencial/05_07_i/Peliculas/app/src/main/AndroidManifest.xml:20:17-69
-30-->/home/eboccalari/workspaces/android-studio/linkedin/archivos_base_android_test_esencial/05_07_i/Peliculas/app/src/main/AndroidManifest.xml:20:25-66
-31
-32                <category android:name="android.intent.category.LAUNCHER" />
-32-->/home/eboccalari/workspaces/android-studio/linkedin/archivos_base_android_test_esencial/05_07_i/Peliculas/app/src/main/AndroidManifest.xml:22:17-77
-32-->/home/eboccalari/workspaces/android-studio/linkedin/archivos_base_android_test_esencial/05_07_i/Peliculas/app/src/main/AndroidManifest.xml:22:27-74
-33            </intent-filter>
-34        </activity>
-35        <activity
-35-->/home/eboccalari/workspaces/android-studio/linkedin/archivos_base_android_test_esencial/05_07_i/Peliculas/app/src/main/AndroidManifest.xml:25:9-33:20
-36            android:name="com.example.mispeliculas.ui.PeliculaDetalleActivity"
-36-->/home/eboccalari/workspaces/android-studio/linkedin/archivos_base_android_test_esencial/05_07_i/Peliculas/app/src/main/AndroidManifest.xml:26:13-55
-37            android:label="@string/title_item_detail"
-37-->/home/eboccalari/workspaces/android-studio/linkedin/archivos_base_android_test_esencial/05_07_i/Peliculas/app/src/main/AndroidManifest.xml:27:13-54
-38            android:parentActivityName="com.example.mispeliculas.ui.PeliculaListaActivity"
-38-->/home/eboccalari/workspaces/android-studio/linkedin/archivos_base_android_test_esencial/05_07_i/Peliculas/app/src/main/AndroidManifest.xml:28:13-67
-39            android:theme="@style/AppTheme.NoActionBar" >
-39-->/home/eboccalari/workspaces/android-studio/linkedin/archivos_base_android_test_esencial/05_07_i/Peliculas/app/src/main/AndroidManifest.xml:29:13-56
-40            <meta-data
-40-->/home/eboccalari/workspaces/android-studio/linkedin/archivos_base_android_test_esencial/05_07_i/Peliculas/app/src/main/AndroidManifest.xml:30:13-32:85
-41                android:name="android.support.PARENT_ACTIVITY"
-41-->/home/eboccalari/workspaces/android-studio/linkedin/archivos_base_android_test_esencial/05_07_i/Peliculas/app/src/main/AndroidManifest.xml:31:17-63
-42                android:value="com.example.mispeliculas.ui.PeliculaListaActivity" />
-42-->/home/eboccalari/workspaces/android-studio/linkedin/archivos_base_android_test_esencial/05_07_i/Peliculas/app/src/main/AndroidManifest.xml:32:17-82
-43        </activity>
-44        <activity
-44-->[androidx.fragment:fragment-testing:1.4.0] /home/eboccalari/.gradle/caches/transforms-3/b1a4b33dc6db424f5bea8cf8f327ce15/transformed/jetified-fragment-testing-1.4.0/AndroidManifest.xml:28:9-37:20
-45            android:name="androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity"
-45-->[androidx.fragment:fragment-testing:1.4.0] /home/eboccalari/.gradle/caches/transforms-3/b1a4b33dc6db424f5bea8cf8f327ce15/transformed/jetified-fragment-testing-1.4.0/AndroidManifest.xml:29:13-96
-46            android:exported="true"
-46-->[androidx.fragment:fragment-testing:1.4.0] /home/eboccalari/.gradle/caches/transforms-3/b1a4b33dc6db424f5bea8cf8f327ce15/transformed/jetified-fragment-testing-1.4.0/AndroidManifest.xml:30:13-36
-47            android:multiprocess="true"
-47-->[androidx.fragment:fragment-testing:1.4.0] /home/eboccalari/.gradle/caches/transforms-3/b1a4b33dc6db424f5bea8cf8f327ce15/transformed/jetified-fragment-testing-1.4.0/AndroidManifest.xml:31:13-40
-48            android:taskAffinity=""
-48-->[androidx.fragment:fragment-testing:1.4.0] /home/eboccalari/.gradle/caches/transforms-3/b1a4b33dc6db424f5bea8cf8f327ce15/transformed/jetified-fragment-testing-1.4.0/AndroidManifest.xml:32:13-36
-49            android:theme="@style/FragmentScenarioEmptyFragmentActivityTheme" >
-49-->[androidx.fragment:fragment-testing:1.4.0] /home/eboccalari/.gradle/caches/transforms-3/b1a4b33dc6db424f5bea8cf8f327ce15/transformed/jetified-fragment-testing-1.4.0/AndroidManifest.xml:33:13-78
-50            <intent-filter>
-50-->[androidx.fragment:fragment-testing:1.4.0] /home/eboccalari/.gradle/caches/transforms-3/b1a4b33dc6db424f5bea8cf8f327ce15/transformed/jetified-fragment-testing-1.4.0/AndroidManifest.xml:34:13-36:29
-51                <action android:name="android.intent.action.MAIN" />
-51-->/home/eboccalari/workspaces/android-studio/linkedin/archivos_base_android_test_esencial/05_07_i/Peliculas/app/src/main/AndroidManifest.xml:20:17-69
-51-->/home/eboccalari/workspaces/android-studio/linkedin/archivos_base_android_test_esencial/05_07_i/Peliculas/app/src/main/AndroidManifest.xml:20:25-66
-52            </intent-filter>
-53        </activity>
-54        <activity
-54-->[androidx.test:core:1.4.0] /home/eboccalari/.gradle/caches/transforms-3/906f7ca7c30dfc23a3380de6a17b6a3c/transformed/jetified-core-1.4.0/AndroidManifest.xml:27:9-34:20
-55            android:name="androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity"
-55-->[androidx.test:core:1.4.0] /home/eboccalari/.gradle/caches/transforms-3/906f7ca7c30dfc23a3380de6a17b6a3c/transformed/jetified-core-1.4.0/AndroidManifest.xml:28:13-99
-56            android:exported="true"
-56-->[androidx.test:core:1.4.0] /home/eboccalari/.gradle/caches/transforms-3/906f7ca7c30dfc23a3380de6a17b6a3c/transformed/jetified-core-1.4.0/AndroidManifest.xml:29:13-36
-57            android:theme="@android:style/Theme" >
-57-->[androidx.test:core:1.4.0] /home/eboccalari/.gradle/caches/transforms-3/906f7ca7c30dfc23a3380de6a17b6a3c/transformed/jetified-core-1.4.0/AndroidManifest.xml:30:13-49
-58            <intent-filter>
-58-->[androidx.fragment:fragment-testing:1.4.0] /home/eboccalari/.gradle/caches/transforms-3/b1a4b33dc6db424f5bea8cf8f327ce15/transformed/jetified-fragment-testing-1.4.0/AndroidManifest.xml:34:13-36:29
-59                <action android:name="android.intent.action.MAIN" />
-59-->/home/eboccalari/workspaces/android-studio/linkedin/archivos_base_android_test_esencial/05_07_i/Peliculas/app/src/main/AndroidManifest.xml:20:17-69
-59-->/home/eboccalari/workspaces/android-studio/linkedin/archivos_base_android_test_esencial/05_07_i/Peliculas/app/src/main/AndroidManifest.xml:20:25-66
-60            </intent-filter>
-61        </activity>
-62        <activity
-62-->[androidx.test:core:1.4.0] /home/eboccalari/.gradle/caches/transforms-3/906f7ca7c30dfc23a3380de6a17b6a3c/transformed/jetified-core-1.4.0/AndroidManifest.xml:35:9-42:20
-63            android:name="androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity"
-63-->[androidx.test:core:1.4.0] /home/eboccalari/.gradle/caches/transforms-3/906f7ca7c30dfc23a3380de6a17b6a3c/transformed/jetified-core-1.4.0/AndroidManifest.xml:36:13-95
-64            android:exported="true"
-64-->[androidx.test:core:1.4.0] /home/eboccalari/.gradle/caches/transforms-3/906f7ca7c30dfc23a3380de6a17b6a3c/transformed/jetified-core-1.4.0/AndroidManifest.xml:37:13-36
-65            android:theme="@android:style/Theme" >
-65-->[androidx.test:core:1.4.0] /home/eboccalari/.gradle/caches/transforms-3/906f7ca7c30dfc23a3380de6a17b6a3c/transformed/jetified-core-1.4.0/AndroidManifest.xml:38:13-49
-66            <intent-filter>
-66-->[androidx.fragment:fragment-testing:1.4.0] /home/eboccalari/.gradle/caches/transforms-3/b1a4b33dc6db424f5bea8cf8f327ce15/transformed/jetified-fragment-testing-1.4.0/AndroidManifest.xml:34:13-36:29
-67                <action android:name="android.intent.action.MAIN" />
-67-->/home/eboccalari/workspaces/android-studio/linkedin/archivos_base_android_test_esencial/05_07_i/Peliculas/app/src/main/AndroidManifest.xml:20:17-69
-67-->/home/eboccalari/workspaces/android-studio/linkedin/archivos_base_android_test_esencial/05_07_i/Peliculas/app/src/main/AndroidManifest.xml:20:25-66
-68            </intent-filter>
-69        </activity>
-70        <activity
-70-->[androidx.test:core:1.4.0] /home/eboccalari/.gradle/caches/transforms-3/906f7ca7c30dfc23a3380de6a17b6a3c/transformed/jetified-core-1.4.0/AndroidManifest.xml:43:9-50:20
-71            android:name="androidx.test.core.app.InstrumentationActivityInvoker$EmptyFloatingActivity"
-71-->[androidx.test:core:1.4.0] /home/eboccalari/.gradle/caches/transforms-3/906f7ca7c30dfc23a3380de6a17b6a3c/transformed/jetified-core-1.4.0/AndroidManifest.xml:44:13-103
-72            android:exported="true"
-72-->[androidx.test:core:1.4.0] /home/eboccalari/.gradle/caches/transforms-3/906f7ca7c30dfc23a3380de6a17b6a3c/transformed/jetified-core-1.4.0/AndroidManifest.xml:45:13-36
-73            android:theme="@android:style/Theme.Dialog" >
-73-->[androidx.test:core:1.4.0] /home/eboccalari/.gradle/caches/transforms-3/906f7ca7c30dfc23a3380de6a17b6a3c/transformed/jetified-core-1.4.0/AndroidManifest.xml:46:13-56
-74            <intent-filter>
-74-->[androidx.fragment:fragment-testing:1.4.0] /home/eboccalari/.gradle/caches/transforms-3/b1a4b33dc6db424f5bea8cf8f327ce15/transformed/jetified-fragment-testing-1.4.0/AndroidManifest.xml:34:13-36:29
-75                <action android:name="android.intent.action.MAIN" />
-75-->/home/eboccalari/workspaces/android-studio/linkedin/archivos_base_android_test_esencial/05_07_i/Peliculas/app/src/main/AndroidManifest.xml:20:17-69
-75-->/home/eboccalari/workspaces/android-studio/linkedin/archivos_base_android_test_esencial/05_07_i/Peliculas/app/src/main/AndroidManifest.xml:20:25-66
-76            </intent-filter>
-77        </activity>
-78
-79        <provider
-79-->[androidx.emoji2:emoji2:1.0.0] /home/eboccalari/.gradle/caches/transforms-3/86bbdb4c704f0c6ef69f85fd6941d5d8/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
-80            android:name="androidx.startup.InitializationProvider"
-80-->[androidx.emoji2:emoji2:1.0.0] /home/eboccalari/.gradle/caches/transforms-3/86bbdb4c704f0c6ef69f85fd6941d5d8/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:27:13-67
-81            android:authorities="com.example.mispeliculas.androidx-startup"
-81-->[androidx.emoji2:emoji2:1.0.0] /home/eboccalari/.gradle/caches/transforms-3/86bbdb4c704f0c6ef69f85fd6941d5d8/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:28:13-68
-82            android:exported="false" >
-82-->[androidx.emoji2:emoji2:1.0.0] /home/eboccalari/.gradle/caches/transforms-3/86bbdb4c704f0c6ef69f85fd6941d5d8/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:29:13-37
-83            <meta-data
-83-->[androidx.emoji2:emoji2:1.0.0] /home/eboccalari/.gradle/caches/transforms-3/86bbdb4c704f0c6ef69f85fd6941d5d8/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
-84                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-84-->[androidx.emoji2:emoji2:1.0.0] /home/eboccalari/.gradle/caches/transforms-3/86bbdb4c704f0c6ef69f85fd6941d5d8/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:32:17-75
-85                android:value="androidx.startup" />
-85-->[androidx.emoji2:emoji2:1.0.0] /home/eboccalari/.gradle/caches/transforms-3/86bbdb4c704f0c6ef69f85fd6941d5d8/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:33:17-49
-86            <meta-data
-86-->[androidx.lifecycle:lifecycle-process:2.4.0] /home/eboccalari/.gradle/caches/transforms-3/60fb03f7868607ff1baa13fa3ab998ab/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
-87                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-87-->[androidx.lifecycle:lifecycle-process:2.4.0] /home/eboccalari/.gradle/caches/transforms-3/60fb03f7868607ff1baa13fa3ab998ab/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78
-88                android:value="androidx.startup" />
-88-->[androidx.lifecycle:lifecycle-process:2.4.0] /home/eboccalari/.gradle/caches/transforms-3/60fb03f7868607ff1baa13fa3ab998ab/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
-89        </provider>
-90    </application>
-91
-92</manifest>
+23        android:testOnly="true"
+24        android:theme="@style/AppTheme" >
+24-->/home/eboccalari/workspaces/android-studio/linkedin/archivos_base_android_test_esencial/05_07_i/Peliculas/app/src/main/AndroidManifest.xml:13:9-40
+25        <activity
+25-->/home/eboccalari/workspaces/android-studio/linkedin/archivos_base_android_test_esencial/05_07_i/Peliculas/app/src/main/AndroidManifest.xml:14:9-24:20
+26            android:name="com.example.mispeliculas.ui.PeliculaListaActivity"
+26-->/home/eboccalari/workspaces/android-studio/linkedin/archivos_base_android_test_esencial/05_07_i/Peliculas/app/src/main/AndroidManifest.xml:15:13-53
+27            android:exported="true"
+27-->/home/eboccalari/workspaces/android-studio/linkedin/archivos_base_android_test_esencial/05_07_i/Peliculas/app/src/main/AndroidManifest.xml:18:13-36
+28            android:label="@string/app_name"
+28-->/home/eboccalari/workspaces/android-studio/linkedin/archivos_base_android_test_esencial/05_07_i/Peliculas/app/src/main/AndroidManifest.xml:16:13-45
+29            android:theme="@style/AppTheme.NoActionBar" >
+29-->/home/eboccalari/workspaces/android-studio/linkedin/archivos_base_android_test_esencial/05_07_i/Peliculas/app/src/main/AndroidManifest.xml:17:13-56
+30            <intent-filter>
+30-->/home/eboccalari/workspaces/android-studio/linkedin/archivos_base_android_test_esencial/05_07_i/Peliculas/app/src/main/AndroidManifest.xml:19:13-23:29
+31                <action android:name="android.intent.action.MAIN" />
+31-->/home/eboccalari/workspaces/android-studio/linkedin/archivos_base_android_test_esencial/05_07_i/Peliculas/app/src/main/AndroidManifest.xml:20:17-69
+31-->/home/eboccalari/workspaces/android-studio/linkedin/archivos_base_android_test_esencial/05_07_i/Peliculas/app/src/main/AndroidManifest.xml:20:25-66
+32
+33                <category android:name="android.intent.category.LAUNCHER" />
+33-->/home/eboccalari/workspaces/android-studio/linkedin/archivos_base_android_test_esencial/05_07_i/Peliculas/app/src/main/AndroidManifest.xml:22:17-77
+33-->/home/eboccalari/workspaces/android-studio/linkedin/archivos_base_android_test_esencial/05_07_i/Peliculas/app/src/main/AndroidManifest.xml:22:27-74
+34            </intent-filter>
+35        </activity>
+36        <activity
+36-->/home/eboccalari/workspaces/android-studio/linkedin/archivos_base_android_test_esencial/05_07_i/Peliculas/app/src/main/AndroidManifest.xml:25:9-33:20
+37            android:name="com.example.mispeliculas.ui.PeliculaDetalleActivity"
+37-->/home/eboccalari/workspaces/android-studio/linkedin/archivos_base_android_test_esencial/05_07_i/Peliculas/app/src/main/AndroidManifest.xml:26:13-55
+38            android:label="@string/title_item_detail"
+38-->/home/eboccalari/workspaces/android-studio/linkedin/archivos_base_android_test_esencial/05_07_i/Peliculas/app/src/main/AndroidManifest.xml:27:13-54
+39            android:parentActivityName="com.example.mispeliculas.ui.PeliculaListaActivity"
+39-->/home/eboccalari/workspaces/android-studio/linkedin/archivos_base_android_test_esencial/05_07_i/Peliculas/app/src/main/AndroidManifest.xml:28:13-67
+40            android:theme="@style/AppTheme.NoActionBar" >
+40-->/home/eboccalari/workspaces/android-studio/linkedin/archivos_base_android_test_esencial/05_07_i/Peliculas/app/src/main/AndroidManifest.xml:29:13-56
+41            <meta-data
+41-->/home/eboccalari/workspaces/android-studio/linkedin/archivos_base_android_test_esencial/05_07_i/Peliculas/app/src/main/AndroidManifest.xml:30:13-32:85
+42                android:name="android.support.PARENT_ACTIVITY"
+42-->/home/eboccalari/workspaces/android-studio/linkedin/archivos_base_android_test_esencial/05_07_i/Peliculas/app/src/main/AndroidManifest.xml:31:17-63
+43                android:value="com.example.mispeliculas.ui.PeliculaListaActivity" />
+43-->/home/eboccalari/workspaces/android-studio/linkedin/archivos_base_android_test_esencial/05_07_i/Peliculas/app/src/main/AndroidManifest.xml:32:17-82
+44        </activity>
+45        <activity
+45-->[androidx.fragment:fragment-testing:1.4.0] /home/eboccalari/.gradle/caches/transforms-3/b1a4b33dc6db424f5bea8cf8f327ce15/transformed/jetified-fragment-testing-1.4.0/AndroidManifest.xml:28:9-37:20
+46            android:name="androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity"
+46-->[androidx.fragment:fragment-testing:1.4.0] /home/eboccalari/.gradle/caches/transforms-3/b1a4b33dc6db424f5bea8cf8f327ce15/transformed/jetified-fragment-testing-1.4.0/AndroidManifest.xml:29:13-96
+47            android:exported="true"
+47-->[androidx.fragment:fragment-testing:1.4.0] /home/eboccalari/.gradle/caches/transforms-3/b1a4b33dc6db424f5bea8cf8f327ce15/transformed/jetified-fragment-testing-1.4.0/AndroidManifest.xml:30:13-36
+48            android:multiprocess="true"
+48-->[androidx.fragment:fragment-testing:1.4.0] /home/eboccalari/.gradle/caches/transforms-3/b1a4b33dc6db424f5bea8cf8f327ce15/transformed/jetified-fragment-testing-1.4.0/AndroidManifest.xml:31:13-40
+49            android:taskAffinity=""
+49-->[androidx.fragment:fragment-testing:1.4.0] /home/eboccalari/.gradle/caches/transforms-3/b1a4b33dc6db424f5bea8cf8f327ce15/transformed/jetified-fragment-testing-1.4.0/AndroidManifest.xml:32:13-36
+50            android:theme="@style/FragmentScenarioEmptyFragmentActivityTheme" >
+50-->[androidx.fragment:fragment-testing:1.4.0] /home/eboccalari/.gradle/caches/transforms-3/b1a4b33dc6db424f5bea8cf8f327ce15/transformed/jetified-fragment-testing-1.4.0/AndroidManifest.xml:33:13-78
+51            <intent-filter>
+51-->[androidx.fragment:fragment-testing:1.4.0] /home/eboccalari/.gradle/caches/transforms-3/b1a4b33dc6db424f5bea8cf8f327ce15/transformed/jetified-fragment-testing-1.4.0/AndroidManifest.xml:34:13-36:29
+52                <action android:name="android.intent.action.MAIN" />
+52-->/home/eboccalari/workspaces/android-studio/linkedin/archivos_base_android_test_esencial/05_07_i/Peliculas/app/src/main/AndroidManifest.xml:20:17-69
+52-->/home/eboccalari/workspaces/android-studio/linkedin/archivos_base_android_test_esencial/05_07_i/Peliculas/app/src/main/AndroidManifest.xml:20:25-66
+53            </intent-filter>
+54        </activity>
+55        <activity
+55-->[androidx.test:core:1.4.0] /home/eboccalari/.gradle/caches/transforms-3/906f7ca7c30dfc23a3380de6a17b6a3c/transformed/jetified-core-1.4.0/AndroidManifest.xml:27:9-34:20
+56            android:name="androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity"
+56-->[androidx.test:core:1.4.0] /home/eboccalari/.gradle/caches/transforms-3/906f7ca7c30dfc23a3380de6a17b6a3c/transformed/jetified-core-1.4.0/AndroidManifest.xml:28:13-99
+57            android:exported="true"
+57-->[androidx.test:core:1.4.0] /home/eboccalari/.gradle/caches/transforms-3/906f7ca7c30dfc23a3380de6a17b6a3c/transformed/jetified-core-1.4.0/AndroidManifest.xml:29:13-36
+58            android:theme="@android:style/Theme" >
+58-->[androidx.test:core:1.4.0] /home/eboccalari/.gradle/caches/transforms-3/906f7ca7c30dfc23a3380de6a17b6a3c/transformed/jetified-core-1.4.0/AndroidManifest.xml:30:13-49
+59            <intent-filter>
+59-->[androidx.fragment:fragment-testing:1.4.0] /home/eboccalari/.gradle/caches/transforms-3/b1a4b33dc6db424f5bea8cf8f327ce15/transformed/jetified-fragment-testing-1.4.0/AndroidManifest.xml:34:13-36:29
+60                <action android:name="android.intent.action.MAIN" />
+60-->/home/eboccalari/workspaces/android-studio/linkedin/archivos_base_android_test_esencial/05_07_i/Peliculas/app/src/main/AndroidManifest.xml:20:17-69
+60-->/home/eboccalari/workspaces/android-studio/linkedin/archivos_base_android_test_esencial/05_07_i/Peliculas/app/src/main/AndroidManifest.xml:20:25-66
+61            </intent-filter>
+62        </activity>
+63        <activity
+63-->[androidx.test:core:1.4.0] /home/eboccalari/.gradle/caches/transforms-3/906f7ca7c30dfc23a3380de6a17b6a3c/transformed/jetified-core-1.4.0/AndroidManifest.xml:35:9-42:20
+64            android:name="androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity"
+64-->[androidx.test:core:1.4.0] /home/eboccalari/.gradle/caches/transforms-3/906f7ca7c30dfc23a3380de6a17b6a3c/transformed/jetified-core-1.4.0/AndroidManifest.xml:36:13-95
+65            android:exported="true"
+65-->[androidx.test:core:1.4.0] /home/eboccalari/.gradle/caches/transforms-3/906f7ca7c30dfc23a3380de6a17b6a3c/transformed/jetified-core-1.4.0/AndroidManifest.xml:37:13-36
+66            android:theme="@android:style/Theme" >
+66-->[androidx.test:core:1.4.0] /home/eboccalari/.gradle/caches/transforms-3/906f7ca7c30dfc23a3380de6a17b6a3c/transformed/jetified-core-1.4.0/AndroidManifest.xml:38:13-49
+67            <intent-filter>
+67-->[androidx.fragment:fragment-testing:1.4.0] /home/eboccalari/.gradle/caches/transforms-3/b1a4b33dc6db424f5bea8cf8f327ce15/transformed/jetified-fragment-testing-1.4.0/AndroidManifest.xml:34:13-36:29
+68                <action android:name="android.intent.action.MAIN" />
+68-->/home/eboccalari/workspaces/android-studio/linkedin/archivos_base_android_test_esencial/05_07_i/Peliculas/app/src/main/AndroidManifest.xml:20:17-69
+68-->/home/eboccalari/workspaces/android-studio/linkedin/archivos_base_android_test_esencial/05_07_i/Peliculas/app/src/main/AndroidManifest.xml:20:25-66
+69            </intent-filter>
+70        </activity>
+71        <activity
+71-->[androidx.test:core:1.4.0] /home/eboccalari/.gradle/caches/transforms-3/906f7ca7c30dfc23a3380de6a17b6a3c/transformed/jetified-core-1.4.0/AndroidManifest.xml:43:9-50:20
+72            android:name="androidx.test.core.app.InstrumentationActivityInvoker$EmptyFloatingActivity"
+72-->[androidx.test:core:1.4.0] /home/eboccalari/.gradle/caches/transforms-3/906f7ca7c30dfc23a3380de6a17b6a3c/transformed/jetified-core-1.4.0/AndroidManifest.xml:44:13-103
+73            android:exported="true"
+73-->[androidx.test:core:1.4.0] /home/eboccalari/.gradle/caches/transforms-3/906f7ca7c30dfc23a3380de6a17b6a3c/transformed/jetified-core-1.4.0/AndroidManifest.xml:45:13-36
+74            android:theme="@android:style/Theme.Dialog" >
+74-->[androidx.test:core:1.4.0] /home/eboccalari/.gradle/caches/transforms-3/906f7ca7c30dfc23a3380de6a17b6a3c/transformed/jetified-core-1.4.0/AndroidManifest.xml:46:13-56
+75            <intent-filter>
+75-->[androidx.fragment:fragment-testing:1.4.0] /home/eboccalari/.gradle/caches/transforms-3/b1a4b33dc6db424f5bea8cf8f327ce15/transformed/jetified-fragment-testing-1.4.0/AndroidManifest.xml:34:13-36:29
+76                <action android:name="android.intent.action.MAIN" />
+76-->/home/eboccalari/workspaces/android-studio/linkedin/archivos_base_android_test_esencial/05_07_i/Peliculas/app/src/main/AndroidManifest.xml:20:17-69
+76-->/home/eboccalari/workspaces/android-studio/linkedin/archivos_base_android_test_esencial/05_07_i/Peliculas/app/src/main/AndroidManifest.xml:20:25-66
+77            </intent-filter>
+78        </activity>
+79
+80        <provider
+80-->[androidx.emoji2:emoji2:1.0.0] /home/eboccalari/.gradle/caches/transforms-3/86bbdb4c704f0c6ef69f85fd6941d5d8/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+81            android:name="androidx.startup.InitializationProvider"
+81-->[androidx.emoji2:emoji2:1.0.0] /home/eboccalari/.gradle/caches/transforms-3/86bbdb4c704f0c6ef69f85fd6941d5d8/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:27:13-67
+82            android:authorities="com.example.mispeliculas.androidx-startup"
+82-->[androidx.emoji2:emoji2:1.0.0] /home/eboccalari/.gradle/caches/transforms-3/86bbdb4c704f0c6ef69f85fd6941d5d8/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:28:13-68
+83            android:exported="false" >
+83-->[androidx.emoji2:emoji2:1.0.0] /home/eboccalari/.gradle/caches/transforms-3/86bbdb4c704f0c6ef69f85fd6941d5d8/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:29:13-37
+84            <meta-data
+84-->[androidx.emoji2:emoji2:1.0.0] /home/eboccalari/.gradle/caches/transforms-3/86bbdb4c704f0c6ef69f85fd6941d5d8/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+85                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+85-->[androidx.emoji2:emoji2:1.0.0] /home/eboccalari/.gradle/caches/transforms-3/86bbdb4c704f0c6ef69f85fd6941d5d8/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:32:17-75
+86                android:value="androidx.startup" />
+86-->[androidx.emoji2:emoji2:1.0.0] /home/eboccalari/.gradle/caches/transforms-3/86bbdb4c704f0c6ef69f85fd6941d5d8/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:33:17-49
+87            <meta-data
+87-->[androidx.lifecycle:lifecycle-process:2.4.0] /home/eboccalari/.gradle/caches/transforms-3/60fb03f7868607ff1baa13fa3ab998ab/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+88                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+88-->[androidx.lifecycle:lifecycle-process:2.4.0] /home/eboccalari/.gradle/caches/transforms-3/60fb03f7868607ff1baa13fa3ab998ab/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78
+89                android:value="androidx.startup" />
+89-->[androidx.lifecycle:lifecycle-process:2.4.0] /home/eboccalari/.gradle/caches/transforms-3/60fb03f7868607ff1baa13fa3ab998ab/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+90        </provider>
+91    </application>
+92
+93</manifest>

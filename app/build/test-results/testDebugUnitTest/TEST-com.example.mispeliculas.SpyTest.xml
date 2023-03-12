@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.example.mispeliculas.SpyTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-03-11T13:40:09" hostname="eboccalari-Lenovo-B50-80" time="1.302">
-  <properties/>
-  <testcase name="giro_soloRuedasDelanterasGiran" classname="com.example.mispeliculas.SpyTest" time="1.302"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
